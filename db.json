@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "access": "NGranted"
+            "access": "Granted"
         }
     ],
     "notification": [
         {
-            "publish": true,
+            "publish": false,
             "message": "HELLO EVERYONE ! Apology for the inconvenience.",
             "containsLink": false,
             "link": "https://www.google.com/"
