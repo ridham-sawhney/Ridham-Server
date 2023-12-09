@@ -6,9 +6,9 @@
     ],
     "notification": [
         {
-            "publish": false,
-            "message": "HELLO EVERYONE !",
-            "containsLink": true,
+            "publish": true,
+            "message": "HELLO EVERYONE ! Apology for the inconvenience.",
+            "containsLink": false,
             "link": "https://www.google.com/"
         }
     ],
