@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "access": "Granted"
+        }
+    ],
+    "notification": [
+        {
+            "publish": false,
+            "message": "HELLO EVERYONE !",
+            "containsLink": true,
+            "link": "https://www.google.com/"
+        }
+    ],
+    "users": [
+        {
+            "Users": [
+                "Ridham",
+                "Sahib",
+                "Raghav"
+            ]
+        }
+    ]
+}
