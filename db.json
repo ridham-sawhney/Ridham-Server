@@ -6,8 +6,8 @@
     ],
     "notification": [
         {
-            "publish": false,
-            "message": "HELLO EVERYONE ! Apology for the inconvenience.",
+            "publish": true,
+            "message": "Acha Fir Milte Hai Agli bari.",
             "containsLink": false,
             "link": "https://www.google.com/"
         }
