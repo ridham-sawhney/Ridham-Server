@@ -6,7 +6,7 @@
     ],
     "notification": [
         {
-            "publish": true,
+            "publish": false,
             "message": "Acha Fir Milte Hai Agli bari.",
             "containsLink": false,
             "link": "https://www.google.com/"
